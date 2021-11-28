@@ -6,14 +6,15 @@ const UserSchema = new Schema(
       username: {
         type: String,
         unique: true,
-        required: 'Username Required',
+        required: true,
         trim: true
       },
       email: {
         type: String,
-        required: 'Email Required',
+        required: true,
         unique: true,
-        match: [/.+@.+\..+/, 'Please enter a valid e-mail address']
+         // use REGEX to validate email
+         match: [/.+@.+\..+/]
       },
       thoughts: [
         {
