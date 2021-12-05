@@ -1,6 +1,7 @@
 <h1 align = "center">Social Media Api</h1>
 
 ## Description 
+The purpose of this project was to create a social media api using Express.js for routing, the MongoDB database, Mongoose ODM, and Moment.js to adjust times. 
 
 ## User Story 
     AS A social media startup
@@ -19,6 +20,8 @@
     THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
 
 ## Application Walk-Through 
+
+Ple
 
 ## Installation 
 
