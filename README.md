@@ -22,7 +22,7 @@ The purpose of this project was to build an API for a social network web applica
 ## Application Walk-Through 
 
  Full videos located in the assets folder. 
- ![Walk-through preview](Assets\Screengrab.JPG)
+ ![Walk-through preview](https://github.com/Brookethorson/social-network-api/blob/main/Assets/Screengrab.JPG)
 
 
 
