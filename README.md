@@ -1,7 +1,7 @@
 <h1 align = "center">Social Media Api</h1>
 
 ## Description 
-The purpose of this project was to create a social media api using Express.js for routing, the MongoDB database, Mongoose ODM, and Moment.js to adjust times. 
+The purpose of this project was to build an API for a social network web application where users can share their thoughts, react to friends' thoughts, and create a friend list. 
 
 ## User Story 
     AS A social media startup
@@ -21,7 +21,12 @@ The purpose of this project was to create a social media api using Express.js fo
 
 ## Application Walk-Through 
 
-Ple
+ Full videos located in the assets folder. 
+ ![Walk-through preview](Assets\Screengrab.JPG)
+
+
+
+
 
 ## Installation 
 
